@@ -23,13 +23,13 @@
           <mxGeometry x="250" y="340" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-8" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="270" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="545" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-10" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="470" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-20" value="&lt;div&gt;用户名&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="480" width="100" height="40" as="geometry" />
+          <mxGeometry x="-50" y="480" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-21" value="密码" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="80" y="480" width="100" height="40" as="geometry" />
@@ -46,7 +46,7 @@
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-25" value="&lt;div&gt;角色集合&lt;/div&gt;&lt;div&gt;（管理员，队员等）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="530" y="470" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="kBiZxpE7eGo4Knn5s_Ev-7">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kBiZxpE7eGo4Knn5s_Ev-20" target="kBiZxpE7eGo4Knn5s_Ev-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="10" y="480" as="sourcePoint" />
             <mxPoint x="120" y="370" as="targetPoint" />
@@ -145,11 +145,20 @@
             <mxPoint x="264" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-57" value="&lt;div&gt;用户名&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="630" width="100" height="40" as="geometry" />
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-57" value="OJ平台类型" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="610" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-58" value="&lt;div&gt;用户名&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="500" width="100" height="40" as="geometry" />
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-59" value="&lt;div&gt;用户名&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="610" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-60" value="&lt;div&gt;用户名&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="610" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-61" value="&lt;div&gt;用户名&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="610" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-62" value="&lt;div&gt;用户名&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="610" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
