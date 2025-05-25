@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="24.7.17">
   <diagram name="第 1 页" id="6avBwALdKhEwyT-0vceL">
-    <mxGraphModel dx="2571" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2571" dy="2216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,10 +25,10 @@
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-10" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-240" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-20" value="&lt;div&gt;用户名&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-20" value="&lt;div&gt;用户名&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-420" y="480" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-21" value="密码" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-21" value="密码" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-290" y="480" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-22" value="&lt;div&gt;邮箱&lt;/div&gt;&lt;div&gt;（用于找回密码）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -142,25 +142,25 @@
             <mxPoint x="644" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-57" value="OJ平台类型" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-57" value="OJ平台类型" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-120" y="765" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-59" value="用户信息页" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-59" value="用户信息页" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="100" y="765" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-60" value="平台首页连接" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-60" value="平台首页连接" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-10" y="765" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-61" value="用户题目记录" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-61" value="用户题目记录" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="210" y="765" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-62" value="登录连接" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-62" value="登录连接" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="430" y="765" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-63" value="题目详情连接" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-63" value="题目详情连接" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="765" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-64" value="登录令牌" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-64" value="登录令牌" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="550" y="765" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-66" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kBiZxpE7eGo4Knn5s_Ev-57" target="kBiZxpE7eGo4Knn5s_Ev-2">
@@ -270,9 +270,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-92" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="810" y="620" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-93" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBiZxpE7eGo4Knn5s_Ev-97" target="kBiZxpE7eGo4Knn5s_Ev-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-310.5" y="50" as="sourcePoint" />
@@ -317,11 +314,14 @@
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-109" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=25;" vertex="1" connectable="0" parent="kBiZxpE7eGo4Knn5s_Ev-108">
           <mxGeometry x="-0.0893" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-110" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="443.5" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-112" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="-170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
