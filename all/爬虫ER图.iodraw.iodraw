@@ -34,14 +34,17 @@
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-21" value="密码" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="40" y="140" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-22" value="&lt;div&gt;用户名&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="100" y="240" width="100" height="40" as="geometry" />
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-22" value="&lt;div&gt;邮箱&lt;/div&gt;&lt;div&gt;（用于找回密码）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-23" value="真实姓名" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="20" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-24" value="专业班级" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="120" y="260" width="100" height="40" as="geometry" />
+          <mxGeometry x="140" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-25" value="角色集合（管理员，队员等）" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="280" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
