@@ -17,10 +17,10 @@
           <mxGeometry x="170" y="130" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-6" value="OJ账号" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="640" y="250" width="100" height="40" as="geometry" />
+          <mxGeometry x="-50" y="170" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-7" value="&lt;div&gt;用户&lt;/div&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="240" y="360" width="100" height="40" as="geometry" />
+          <mxGeometry x="250" y="340" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-8" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="270" y="570" width="120" height="60" as="geometry" />
@@ -58,35 +58,35 @@
             <mxPoint x="300" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kBiZxpE7eGo4Knn5s_Ev-23">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBiZxpE7eGo4Knn5s_Ev-23" target="kBiZxpE7eGo4Knn5s_Ev-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="490" as="sourcePoint" />
             <mxPoint x="290" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-35" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="500" as="sourcePoint" />
-            <mxPoint x="290" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="kBiZxpE7eGo4Knn5s_Ev-22">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBiZxpE7eGo4Knn5s_Ev-22" target="kBiZxpE7eGo4Knn5s_Ev-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="510" as="sourcePoint" />
             <mxPoint x="290" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-37" value="" style="endArrow=none;html=1;rounded=0;exitX=0.308;exitY=0.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kBiZxpE7eGo4Knn5s_Ev-25">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-37" value="" style="endArrow=none;html=1;rounded=0;exitX=0.308;exitY=0.067;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBiZxpE7eGo4Knn5s_Ev-25" target="kBiZxpE7eGo4Knn5s_Ev-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="520" as="sourcePoint" />
             <mxPoint x="290" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBiZxpE7eGo4Knn5s_Ev-24" target="kBiZxpE7eGo4Knn5s_Ev-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="445" y="494" as="sourcePoint" />
-            <mxPoint x="300" y="410" as="targetPoint" />
+            <mxPoint x="290" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-39" value="&lt;div&gt;用户名&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="10" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-40" value="OJ平台" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="260" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
