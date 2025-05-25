@@ -13,16 +13,16 @@
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-3" value="Entity" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="340" y="150" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-4" value="Entity" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-4" value="做题记录" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="350" y="160" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-5" value="Entity" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="360" y="170" width="100" height="40" as="geometry" />
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-5" value="题目" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-6" value="Entity" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="180" width="100" height="40" as="geometry" />
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-6" value="OJ账号" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="150" y="230" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-7" value="Entity" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-7" value="&lt;div&gt;用户&lt;/div&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="300" y="350" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
