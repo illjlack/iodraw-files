@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="24.7.17">
   <diagram name="第 1 页" id="6avBwALdKhEwyT-0vceL">
-    <mxGraphModel dx="2048" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2263" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-2" value="外部OJ连接" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="30" y="545" width="100" height="40" as="geometry" />
+          <mxGeometry x="-20" y="570" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-3" value="题目类型标签" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="250" y="40" width="100" height="40" as="geometry" />
@@ -146,22 +146,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-57" value="OJ平台类型" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="610" width="100" height="40" as="geometry" />
+          <mxGeometry x="-230" y="680" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-59" value="用户信息页" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="50" y="610" width="100" height="40" as="geometry" />
+          <mxGeometry x="-30" y="680" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-60" value="平台首页连接" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="610" width="100" height="40" as="geometry" />
+          <mxGeometry x="-130" y="680" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-61" value="用户题目记录" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="610" width="100" height="40" as="geometry" />
+          <mxGeometry x="70" y="680" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-62" value="题目详情连接" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="270" y="610" width="100" height="40" as="geometry" />
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-62" value="登录连接" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="680" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-63" value="题目详情连接" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="280" y="620" width="100" height="40" as="geometry" />
+          <mxGeometry x="170" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-64" value="登录令牌" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="700" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
