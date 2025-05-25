@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="24.7.17">
   <diagram name="第 1 页" id="6avBwALdKhEwyT-0vceL">
-    <mxGraphModel dx="2571" dy="2216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2544" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -312,9 +312,9 @@
             <mxPoint x="724" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-109" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=25;" vertex="1" connectable="0" parent="kBiZxpE7eGo4Knn5s_Ev-108">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-109" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=25;" vertex="1" connectable="0" parent="kBiZxpE7eGo4Knn5s_Ev-108">
           <mxGeometry x="-0.0893" y="1" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-110" value="拥有" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
