@@ -14,7 +14,7 @@
           <mxGeometry x="620" y="100" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-5" value="外部OJ题目" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="330" y="130" width="100" height="40" as="geometry" />
+          <mxGeometry x="314" y="110" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kBiZxpE7eGo4Knn5s_Ev-6" value="OJ账号" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-60" y="150" width="100" height="40" as="geometry" />
@@ -118,22 +118,22 @@
             <mxPoint x="380" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0.437;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0.437;entryY=1.033;entryDx=0;entryDy=0;exitX=0.31;exitY=0.117;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="kBiZxpE7eGo4Knn5s_Ev-47" target="kBiZxpE7eGo4Knn5s_Ev-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="260" as="sourcePoint" />
             <mxPoint x="384" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-53" value="" style="endArrow=none;html=1;rounded=0;entryX=0.437;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-53" value="" style="endArrow=none;html=1;rounded=0;exitX=0.277;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kBiZxpE7eGo4Knn5s_Ev-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="270" as="sourcePoint" />
-            <mxPoint x="394" y="190" as="targetPoint" />
+            <mxPoint x="370" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.437;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="kBiZxpE7eGo4Knn5s_Ev-54" value="" style="endArrow=none;html=1;rounded=0;exitX=0.2;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kBiZxpE7eGo4Knn5s_Ev-49">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="280" as="sourcePoint" />
-            <mxPoint x="404" y="200" as="targetPoint" />
+            <mxPoint x="370" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
